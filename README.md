@@ -1,1 +1,2 @@
-# getRiches.github.io
+# WoCms项目相关文档
+> 请团队中的小伙伴在开发中对其进行完善
